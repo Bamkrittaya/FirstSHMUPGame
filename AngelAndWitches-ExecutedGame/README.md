@@ -40,3 +40,5 @@
   - _"Shooting Sound"_ by Unity Asset Store.
   - _Sound Effect by Universfield_ and _Sound Effect by Rusu Gabriel_ from Pixabay.
 
+#sharedassets1.assets.resS 
+unzip it and put it under the "SpaceShooter_Data" folder
